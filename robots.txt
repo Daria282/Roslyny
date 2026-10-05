@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daria282.github.io/Roslyny/sitemap.xml
